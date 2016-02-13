@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Save]]></title>
         <description><![CDATA[Save]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/save/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 08:57:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 13 Feb 2016 16:46:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/save/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b519e482-17ac-4127-9068-cc35ce4e76b5.png">]]></description>
+            <link>https://thegrid.ai/save/c02effeb-6d2e-413b-bf74-9ced6d2b9517/index.html</link>
+            <guid isPermaLink="false">c02effeb-6d2e-413b-bf74-9ced6d2b9517</guid>
+            <pubDate>Sat, 13 Feb 2016 16:46:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cool Chinese restaurant]]></title>
-            <description><![CDATA[<article><h1>Cool Chinese restaurant</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a3110e4-a574-44b6-a135-a7114caaa1a9.png"></article>]]></description>
-            <link>undefinedcool-chinese-restaurant/index.html</link>
+            <description><![CDATA[<article><h1>Cool Chinese restaurant</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1dabed06030d580a65316ae99f7cd10171f2fae.png"></article>]]></description>
+            <link>https://thegrid.ai/save/cool-chinese-restaurant/index.html</link>
             <guid isPermaLink="false">1e605bba-8d06-4db8-971d-511b757b7b5e</guid>
             <pubDate>Sat, 13 Feb 2016 08:57:01 GMT</pubDate>
         </item>
