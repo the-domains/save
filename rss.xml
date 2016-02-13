@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Save]]></title>
+        <description><![CDATA[Save]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 13 Feb 2016 08:57:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cool Chinese restaurant]]></title>
+            <description><![CDATA[<article><h1>Cool Chinese restaurant</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a3110e4-a574-44b6-a135-a7114caaa1a9.png"></article>]]></description>
+            <link>undefinedcool-chinese-restaurant/index.html</link>
+            <guid isPermaLink="false">1e605bba-8d06-4db8-971d-511b757b7b5e</guid>
+            <pubDate>Sat, 13 Feb 2016 08:57:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
