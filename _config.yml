@@ -1,0 +1,14 @@
+layout_spectrum: 0.4677419
+color:
+  saturation: 0.2258064
+  lightness: 0.9964158
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFB'
+    - '#28150E'
+    - '#A3654A'
+    - '#E0BE99'
+    - '#FF3039'
+  rhythmicContrast: 1
+typography_spectrum: 0.5
+name: Save
